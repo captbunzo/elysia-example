@@ -1,0 +1,12 @@
+# Ignore lock file
+bun.lock
+
+# Ignore build artifacts
+dist/
+coverage/
+
+# Ignore node modules
+node_modules/
+
+# Ignore vscode settings
+# .vscode/
